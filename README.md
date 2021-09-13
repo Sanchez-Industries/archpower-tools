@@ -1,0 +1,2 @@
+# archpower-tools
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a4938133727b4815b03c6a7f1ecfe918)](https://app.codacy.com/gh/Sanchez-Industries/archpower-tools?utm_source=github.com&utm_medium=referral&utm_content=Sanchez-Industries/archpower-tools&utm_campaign=Badge_Grade_Settings)
